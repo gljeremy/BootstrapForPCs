@@ -1,1 +1,2 @@
-cup update all
+cup all -y
+pause

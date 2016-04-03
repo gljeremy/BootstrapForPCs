@@ -23,7 +23,8 @@ cinst 7zip
 cinst putty
 cinst wget
 cinst curl
-cinst baretail
+#cinst baretail
+cinst tailblazer
 cinst linkshellextension
 cinst synctrayzor
 cinst treesizefree
